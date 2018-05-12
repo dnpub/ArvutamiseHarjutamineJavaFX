@@ -1,0 +1,2 @@
+# ArvutamiseHarjutamineJavaFX
+Graafilise kasutajaliidesega arvutamise harjutamise programm
